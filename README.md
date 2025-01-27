@@ -1,5 +1,10 @@
-## Hi there 👋
+## KINDA J THE GOAT 🐐
+jk i make random stuff i need whenever 
 
+I made so far:
+- JahumBug AFKBOT, Modded afk bot for skyfactory3 modpack servers [js]
+
+<3
 <!--
 **JAYGOTleakedGUYS/JAYGOTleakedGUYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
